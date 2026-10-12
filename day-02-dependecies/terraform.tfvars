@@ -1,0 +1,5 @@
+rg_name="kml_rg_main-73d9d59d7a1143f2"
+rg_location="eastus"
+vnet_name="cwb-vnet"
+subnet_name="cwb-subnet"
+nsg_name="cwb-nsg"
