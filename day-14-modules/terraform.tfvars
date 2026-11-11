@@ -1,0 +1,6 @@
+resource_group_name      = "kml_rg_main"
+storage_account_name     = "kmlmystorageaccount"
+account_replication_type = "LRS"
+account_tier             = "Standard"
+storage_container_name   = "kmlmycontainer"
+container_access_type    = "private"
